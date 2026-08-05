@@ -1,5 +1,5 @@
 ---
-title: "2026-08-03 今日の技術トレンド"
+title: "MCP2026対応でAgentCore Gatewayが一気に変わった5つの理由"
 emoji: "🤖"
 type: "tech"
 topics: ["ai", "llm", "nextjs", "python", "agent"]
